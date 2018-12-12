@@ -1,0 +1,29 @@
+/*
+Maura Sanders
+November 8, 2018
+Photography 
+*/
+
+/* The universal selector */
+
+*  {
+
+}
+
+/* Body attributes here */
+
+header {
+    background-color: lightcoral;
+
+}  
+h1{
+   text-align: center;  
+}
+
+main {
+    font-family: inherit;
+    background-color: yellowgreen;
+}#camera { width: 200px; height: 100px;}
+footer {
+    background-color: beige;
+}
